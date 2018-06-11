@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 
-Physicists create new class of 2-D artificial materials
+title: Physicists create new class of artificial materials
 ---
 
 [
